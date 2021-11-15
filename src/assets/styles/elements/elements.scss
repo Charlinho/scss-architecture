@@ -1,0 +1,9 @@
+@use '../settings/settings.scss' as settings;
+
+body {
+  background-color: settings.$white;
+}
+
+h1 {
+  color: settings.$red;
+}
